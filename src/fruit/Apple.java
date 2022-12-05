@@ -13,4 +13,9 @@ public class Apple {
 		clean = true;
 	}
 	
+	public void ate() {
+		price -= 800;
+	}
+
+	
 }
